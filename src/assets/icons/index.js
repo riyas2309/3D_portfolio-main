@@ -43,7 +43,7 @@ import task from "./task.svg";
 import blog from "./blog.svg";
 import designing from "./designing.svg";
 import portfolio from "./portfolio.svg";
-
+import instagram from "./instagram.svg";
 export {
   css,
   portfolio,
@@ -90,4 +90,5 @@ export {
   sql,
   tomcat,
   task,
+  instagram
 };

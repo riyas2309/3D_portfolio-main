@@ -1,9 +1,7 @@
 import { bornfire } from "../assets/images";
 import {
-  car,
   contact,
   css,
-  estate,
   express,
   git,
   github,
@@ -13,12 +11,8 @@ import {
   mongodb,
   mui,
   nodejs,
-  pricewise,
   react,
-  snapgram,
-  summiz,
   tailwindcss,
-  threads,
   xd,
   after,
   ai,
@@ -36,6 +30,7 @@ import {
   designing,
   blog,
   portfolio,
+  instagram
 } from "../assets/icons";
 
 export const skills = [
@@ -208,6 +203,11 @@ export const socialLinks = [
     name: "LinkedIn",
     iconUrl: linkedin,
     link: "https://www.linkedin.com/in/mohamedriyasashrafali/",
+  },
+  {
+    name: "Instagram",
+    iconUrl: instagram,
+    link: "https://www.instagram.com/riyas_asraf/",
   },
 ];
 

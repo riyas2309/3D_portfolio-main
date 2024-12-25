@@ -10,6 +10,7 @@ import profile from "../assets/images/profile.png";
 import { experiences, skills } from "../constants";
 
 import "react-vertical-timeline-component/style.min.css";
+import LeetcodeRank from "../components/LeetcodeRank";
 
 const About = () => {
   return (
@@ -24,6 +25,7 @@ const About = () => {
             </span>{" "}
             👋
           </h1>
+        <LeetcodeRank />
         </div>
 
         <div className="w-36 h-36 -ml-10">
