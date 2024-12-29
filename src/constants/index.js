@@ -177,7 +177,7 @@ export const experiences = [
     company_name: "Bornfire Innovations",
     icon: bornfire,
     iconBg: "#accbe1",
-    date: "January 2020 - Present",
+    date: "January 2024 - Present",
     points: [
       "Developing and maintaining secure banking applications using Java Spring, HTML, CSS, and JavaScript.",
       "Ensuring high security in application architecture, adhering to banking compliance standards.",
